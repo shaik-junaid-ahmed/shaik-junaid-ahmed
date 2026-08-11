@@ -1,10 +1,12 @@
-# ⚡ SHAIK JUNAID AHMED ⚡
-
 <div align="center">
 
-  <h3><b>FOUNDER • SYSTEMS ARCHITECT • PRODUCT ENGINEER</b></h3>
+  <!-- SHAIK JUNAID AHMED PERMANENT ANIMATED GLOW HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=030712&stroke=00F0FF&strokeWidth=2&height=120&section=header&text=SHAIK%20JUNAID%20AHMED&fontSize=38&fontColor=00F0FF&fontAlignY=42&animation=fadeIn" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=40&lines=%3E_BUILDING+NYZOR+%E2%80%A2+MAFAZ+TOOLS+%E2%80%A2+ZAFAM+TECH;%3E_DESKTOP+SUITES+%2B+HARDWARE+SECURITY+CORE" alt="Cyber Subtitle" />
+  <br/><br/>
+
+  <!-- CHANGING ANIMATED SUBTITLE TYPING -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=1000&color=FF007F&center=true&vCenter=true&width=850&height=40&lines=%3E_FOUNDER+%2B+SYSTEMS+ARCHITECT;%3E_BUILDING+NYZOR+%E2%80%A2+MAFAZ+TOOLS+%E2%80%A2+ZAFAM+TECH;%3E_DESKTOP+SUITES+%2B+HARDWARE+SECURITY+CORE" alt="Cyber Subtitle Typing" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/FOUNDER-030712?style=for-the-badge&logo=target&logoColor=00F0FF" />
