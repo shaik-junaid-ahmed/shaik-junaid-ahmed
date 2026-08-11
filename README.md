@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=1000&color=FF007F&center=true&vCenter=true&width=850&height=40&lines=FOUNDER+%2B+SYSTEMS+ARCHITECT;BUILDING+NYZOR+%7C+MAFAZ+TOOLS+%7C+ZAFAM+TECH;DESKTOP+SUITES+%2B+HARDWARE+SECURITY+CORE" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=1000&color=FF007F&center=true&vCenter=true&width=850&height=40&lines=FOUNDER+%2B+SYSTEMS+ARCHITECT;BUILDING+NYZOR+%7C+ZAFAM+TECH;DESKTOP+ENGINEERING+%2B+HARDWARE+SECURITY+CORE" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 | KEY | VALUE |
 |:----|:------|
 | PRIMARY VENTURE | NYZOR — Self-Development & Productivity Ecosystem |
-| STUDIO PRODUCT | MAFAZ TOOLS — 4K Engine & Telugu2Anu Converter Suite |
+| PRIVATE PROJECT | MAFAZ TOOLS — Private Studio Software Suite |
 | FUTURE INITIATIVE | ZAFAM TECH — Large-Scale Enterprise Platform Vision |
 | SECURITY CORE | HWID Hardware Locking & Cryptographic Licensing |
 
@@ -33,13 +33,11 @@
 flowchart TD
     SJA["SHAIK JUNAID AHMED — Founder & Systems Architect"]
     SJA --> NYZOR["NYZOR — Self-Development Ecosystem"]
-    SJA --> MAFAZ["MAFAZ TOOLS — Desktop Studio Suite"]
+    SJA --> MAFAZ["MAFAZ TOOLS — Private Studio Suite"]
     SJA --> ZAFAM["ZAFAM TECH — Enterprise Platform Vision"]
     NYZOR --> N1["Productivity Systems"]
     NYZOR --> N2["Personal Growth & Digital Tools"]
-    MAFAZ --> M1["4K High-Speed Media Engine"]
-    MAFAZ --> M2["Telugu2Anu PUA Font Engine"]
-    MAFAZ --> M3["Hardware-Locked Security Core"]
+    MAFAZ --> M1["Private — Details Undisclosed"]
     ZAFAM --> Z1["E-Commerce Infrastructure"]
     ZAFAM --> Z2["High-Scale Tech Ecosystem"]
 ```
@@ -51,7 +49,7 @@ flowchart TD
 | VENTURE | TYPE | DESCRIPTION |
 |:--------|:-----|:------------|
 | NYZOR | Self-Development Ecosystem | Digital ecosystem to build discipline, track progress and optimize daily productivity |
-| MAFAZ TOOLS | Desktop Studio Suite | 4K UHD YouTube engine, Telugu2Anu font converter and hardware-locked security licensing |
+| MAFAZ TOOLS | Private Studio Project | Large-scale private software project. Details undisclosed. |
 | ZAFAM TECH | Enterprise Technology | Large-scale platforms, e-commerce infrastructure and high-scale systems architecture |
 
 ---
