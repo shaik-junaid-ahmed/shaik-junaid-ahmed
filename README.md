@@ -1,12 +1,11 @@
-```markdown
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=70&lines=%3E_SHAIK+JUNAID+AHMED;%3E_FOUNDER+%E2%80%A2+SYSTEMS+ENGINEER;%3E_NYZOR+%E2%80%A2+MAFAZ+TOOLS+%E2%80%A2+ZAFAM+TECH" alt="Cyber Typing Header" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/FOUNDER-030712?style=for-the-badge&logo=target&logoColor=00F0FF&color=00F0FF" />
-    <img src="https://img.shields.io/badge/SYSTEMS_ENGINEER-030712?style=for-the-badge&logo=cpu&logoColor=FF007F&color=FF007F" />
-    <img src="https://img.shields.io/badge/DESKTOP_ARCHITECT-030712?style=for-the-badge&logo=electron&logoColor=38BDF8&color=38BDF8" />
+    <img src="https://img.shields.io/badge/FOUNDER-030712?style=for-the-badge&logo=target&logoColor=00F0FF" />
+    <img src="https://img.shields.io/badge/SYSTEMS_ENGINEER-030712?style=for-the-badge&logo=cpu&logoColor=FF007F" />
+    <img src="https://img.shields.io/badge/DESKTOP_ARCHITECT-030712?style=for-the-badge&logo=electron&logoColor=38BDF8" />
   </p>
 
 </div>
@@ -31,17 +30,11 @@
 ## 🏛️ VENTURE ECOSYSTEM ARCHITECTURE
 
 ```mermaid
-graph TD
-    classDef founder fill:#030712,stroke:#00F0FF,stroke-width:2px,color:#00F0FF,font-weight:bold;
-    classDef nyzor fill:#090D16,stroke:#FF007F,stroke-width:1.5px,color:#FFFFFF;
-    classDef mafaz fill:#090D16,stroke:#38BDF8,stroke-width:1.5px,color:#FFFFFF;
-    classDef zafam fill:#090D16,stroke:#34D399,stroke-width:1.5px,color:#FFFFFF;
-
-    SJA["👑 SHAIK JUNAID AHMED<br/>Founder & Systems Architect"] :::founder
-
-    SJA --> NYZOR["🧠 NYZOR<br/>Self-Development Ecosystem"] :::nyzor
-    SJA --> MAFAZ["🛠️ MAFAZ TOOLS<br/>Desktop Studio Suite"] :::mafaz
-    SJA --> ZAFAM["🌐 ZAFAM TECH<br/>Enterprise Platform Vision"] :::zafam
+flowchart TD
+    SJA["SHAIK JUNAID AHMED<br/>Founder & Systems Architect"]
+    SJA --> NYZOR["NYZOR<br/>Self-Development Ecosystem"]
+    SJA --> MAFAZ["MAFAZ TOOLS<br/>Desktop Studio Suite"]
+    SJA --> ZAFAM["ZAFAM TECH<br/>Enterprise Platform Vision"]
 
     NYZOR --> N1["Productivity Systems"]
     NYZOR --> N2["Personal Growth & Digital Tools"]
@@ -112,11 +105,10 @@ graph TD
 <div align="center">
 
   <a href="https://nyzor-official.webapp">
-    <img src="https://img.shields.io/badge/Website-Nyzor_Official-030712?style=for-the-badge&logo=google-chrome&logoColor=00F0FF&color=00F0FF" />
+    <img src="https://img.shields.io/badge/Website-Nyzor_Official-030712?style=for-the-badge&logo=google-chrome&logoColor=00F0FF" />
   </a>
   <a href="mailto:specialjunaid69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Architect-030712?style=for-the-badge&logo=gmail&logoColor=EA4335&color=EA4335" />
+    <img src="https://img.shields.io/badge/Email-Contact_Architect-030712?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 
 </div>
-```
