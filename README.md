@@ -1,6 +1,7 @@
+```markdown
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=34&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=70&lines=%3E_SYSTEM_INITIALIZED%3A+SHAIK+JUNAID+AHMED;%3E_ROLE%3A+FOUNDER+%2B+SYSTEMS+ARCHITECT;%3E_VENTURES%3A+NYZOR+%7C+MAFAZ+TOOLS+%7C+ZAFAM+TECH" alt="High Tech Cyber Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=70&lines=%3E_SHAIK+JUNAID+AHMED;%3E_FOUNDER+%E2%80%A2+SYSTEMS+ENGINEER;%3E_NYZOR+%E2%80%A2+MAFAZ+TOOLS+%E2%80%A2+ZAFAM+TECH" alt="Cyber Typing Header" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/FOUNDER-030712?style=for-the-badge&logo=target&logoColor=00F0FF&color=00F0FF" />
@@ -12,12 +13,110 @@
 
 <br/>
 
-## 📡 COMMAND CONSOLE // SYSTEM OVERVIEW
+## 📡 SYSTEM OVERVIEW
 
 ```text
 ┌── [ SHAIK JUNAID AHMED // SYSTEM IDENTIFICATION ]
 │
-├── 🧠 PRIMARY VENTURE   :: NYZOR (Self-Development & Productivity Ecosystem)
-├── 🛠️ STUDIO PRODUCT   :: MAFAZ TOOLS (High-Performance 4K & Font Engine Suite)
-├── 🌐 FUTURE INITIATIVE :: ZAFAM TECH (Large-Scale Enterprise Platform)
-└── 🔒 SECURITY CORE     :: HWID Hardware Locking & Cryptographic Licensing 
+├── 🧠 NYZOR         :: Self-Development & Productivity Ecosystem
+├── 🛠️ MAFAZ TOOLS   :: High-Performance 4K Engine & Telugu2Anu Converter Suite
+├── 🌐 ZAFAM TECH    :: Large-Scale Enterprise Platform Vision
+└── 🔒 SECURITY      :: HWID Hardware Locking & Cryptographic Licensing
+```
+
+<br/>
+
+---
+
+## 🏛️ VENTURE ECOSYSTEM ARCHITECTURE
+
+```mermaid
+graph TD
+    classDef founder fill:#030712,stroke:#00F0FF,stroke-width:2px,color:#00F0FF,font-weight:bold;
+    classDef nyzor fill:#090D16,stroke:#FF007F,stroke-width:1.5px,color:#FFFFFF;
+    classDef mafaz fill:#090D16,stroke:#38BDF8,stroke-width:1.5px,color:#FFFFFF;
+    classDef zafam fill:#090D16,stroke:#34D399,stroke-width:1.5px,color:#FFFFFF;
+
+    SJA["👑 SHAIK JUNAID AHMED<br/>Founder & Systems Architect"] :::founder
+
+    SJA --> NYZOR["🧠 NYZOR<br/>Self-Development Ecosystem"] :::nyzor
+    SJA --> MAFAZ["🛠️ MAFAZ TOOLS<br/>Desktop Studio Suite"] :::mafaz
+    SJA --> ZAFAM["🌐 ZAFAM TECH<br/>Enterprise Platform Vision"] :::zafam
+
+    NYZOR --> N1["Productivity Systems"]
+    NYZOR --> N2["Personal Growth & Digital Tools"]
+
+    MAFAZ --> M1["4K High-Speed Media Engine"]
+    MAFAZ --> M2["Telugu2Anu PUA Font Engine"]
+    MAFAZ --> M3["Hardware-Locked Security Core"]
+
+    ZAFAM --> Z1["E-Commerce Infrastructure"]
+    ZAFAM --> Z2["High-Scale Tech Ecosystem"]
+```
+
+<br/>
+
+---
+
+## 🚀 VENTURE & PRODUCT DETAILS
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 NYZOR</h3>
+      <p align="center"><code>Self-Development Ecosystem</code></p>
+      <hr>
+      <p>Nyzor is a digital self-development ecosystem designed to build discipline, track personal progress, and optimize daily productivity.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🛠️ MAFAZ TOOLS</h3>
+      <p align="center"><code>Desktop Studio Suite</code></p>
+      <hr>
+      <p>A unified desktop suite featuring a 4K UHD YouTube media engine, Telugu2Anu font converter, and hardware-locked security licensing.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 ZAFAM TECH</h3>
+      <p align="center"><code>Enterprise Technology</code></p>
+      <hr>
+      <p>A large-scale technology venture focused on enterprise platforms, e-commerce infrastructure, and high-scale systems architecture.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 💻 TECH ARSENAL
+
+<div align="center">
+
+<p align="center">
+  <code>JavaScript</code> • <code>Node.js</code> • <code>React.js</code> • <code>Electron.js</code> • <code>Vite</code> • <code>Python</code> • <code>C++</code> • <code>HTML5/CSS3</code>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,electron,vite,html,css,python,cpp,git,github,vscode,figma&perline=7" />
+</p>
+
+</div>
+
+<br/>
+
+---
+
+## 🌐 OFFICIAL LINKS
+
+<div align="center">
+
+  <a href="https://nyzor-official.webapp">
+    <img src="https://img.shields.io/badge/Website-Nyzor_Official-030712?style=for-the-badge&logo=google-chrome&logoColor=00F0FF&color=00F0FF" />
+  </a>
+  <a href="mailto:specialjunaid69@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Architect-030712?style=for-the-badge&logo=gmail&logoColor=EA4335&color=EA4335" />
+  </a>
+
+</div>
+```
