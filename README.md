@@ -1,6 +1,10 @@
+# ⚡ SHAIK JUNAID AHMED ⚡
+
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=70&lines=%3E_SHAIK+JUNAID+AHMED;%3E_FOUNDER+%E2%80%A2+SYSTEMS+ENGINEER;%3E_NYZOR+%E2%80%A2+MAFAZ+TOOLS+%E2%80%A2+ZAFAM+TECH" alt="Cyber Typing Header" />
+  <h3><b>FOUNDER • SYSTEMS ARCHITECT • PRODUCT ENGINEER</b></h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=40&lines=%3E_BUILDING+NYZOR+%E2%80%A2+MAFAZ+TOOLS+%E2%80%A2+ZAFAM+TECH;%3E_DESKTOP+SUITES+%2B+HARDWARE+SECURITY+CORE" alt="Cyber Subtitle" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/FOUNDER-030712?style=for-the-badge&logo=target&logoColor=00F0FF" />
