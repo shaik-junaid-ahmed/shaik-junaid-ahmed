@@ -1,34 +1,20 @@
 <div align="center">
 
-# ⚡ SHAIK JUNAID AHMED
-### — THE TRUE POLYMATH // INTERMEDIATE II (MPC) —
-**Bridging CAD Engineering, Fine Art & Software Architecture**
+<!-- HERO SECTION UI CARD -->
+<a href="https://github.com/shaik-junaid-ahmed">
+  <img src="./.github/assets/hero-card.svg" width="100%" alt="Shaik Junaid Ahmed // The True Polymath" />
+</a>
+
+<br/>
 
 [![Status](https://img.shields.io/badge/STATUS-ONLINE%20%26%20EXECUTING-0284c7?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 [![Location](https://img.shields.io/badge/BASE-KHAMMAM%2C%20TELANGANA%20%5BIN%5D-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 [![Aura](https://img.shields.io/badge/AURA_INDEX-%2B994%2C210-38bdf8?style=for-the-badge&logo=target&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 
-<br/>
+<br/><br/>
 
-```
-[ 100+ WPM DUAL SPEED ]  •  [ CATIA & SOLIDWORKS 3D ]  •  [ PENCIL FINE REALISM ]  •  [ 15 VERIFIED CREDENTIALS ]
-```
-
-<br/>
-
----
-
-### 👑 THE SACRED OPERATING CREED
-
-> ### **"میں قسمت والا نہیں، محنت والا ہوں۔ تقدیر بناتا میں اپنی ہوں۔"**
-> *"Main kismat wala nahi, mehnat wala hoon. Taqdeer banata main apni hoon."*  
-> **"I am not a product of luck, but of relentless hard work. I forge my own destiny."**
-
-| LUCK FACTOR | EFFORT VECTOR | DESTINY |
-| :---: | :---: | :---: |
-| `0.0%` | `100% UNBROKEN` | `SELF-FORGED` |
-
----
+<!-- SACRED CREED SANCTUARY CARD -->
+<img src="./.github/assets/creed-card.svg" width="100%" alt="Operating Creed & Ethos // Main kismat wala nahi, mehnat wala hoon." />
 
 </div>
 
@@ -38,7 +24,13 @@
 
 > *"I don't study disciplines to collect titles. I conquer them to execute at production grade."*
 
-I operate without artificial boundaries between art, physical engineering, and digital systems. While most specialize narrowly, the highest-leverage breakthroughs happen at the intersection of all disciplines.
+I operate without artificial boundaries between manual art, physical 3D modeling, and digital software systems.
+
+<div align="center">
+  <img src="./.github/assets/polymath-grid.svg" width="100%" alt="Polymath Spectrum Visual Matrix" />
+</div>
+
+<br/>
 
 ```typescript
 const ShaikJunaidAhmed = {
@@ -123,18 +115,10 @@ const ShaikJunaidAhmed = {
 
 <div align="center">
 
-### **"Reach out before I get famous."**
+<!-- DAY ZERO "CONNECT BEFORE I GET FAMOUS" CARD -->
+<img src="./.github/assets/day-zero-card.svg" width="100%" alt="Reach out before I get famous" />
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│  Right now, my inbox is direct and unbuffered. In a few years, when the relentless      │
-│  work pays off and the trajectory hits escape velocity, getting through will be almost   │
-│  impossible.                                                                             │
-│                                                                                          │
-│  Connect now — so when that breakthrough happens, you aren't just an acquaintance.      │
-│  You're someone who was here from Day Zero.                                              │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<br/><br/>
 
 [![Direct Email](https://img.shields.io/badge/DIRECT_EMAIL-specialjunaid69%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:specialjunaid69@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%40shaik__junaid__ahmed__69-ec4899?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaik_junaid_ahmed_69)
