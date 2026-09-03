@@ -1,3 +1,4 @@
+<img width="1370" height="637" alt="hero-preview" src="https://github.com/user-attachments/assets/ca39b77a-158c-43ec-b76a-454b449a5cc9" />
 <div align="center">
 
 # ⚡ SHAIK JUNAID AHMED
