@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- HERO SECTION UI CARD -->
-<a href="https://github.com/shaik-junaid-ahmed">
-  <img src="./.github/assets/hero-card.svg" width="100%" alt="Shaik Junaid Ahmed // The True Polymath" />
-</a>
+# ⚡ SHAIK JUNAID AHMED
+### 🌐 THE TRUE POLYMATH // INTERMEDIATE II (MPC)
+**Bridging CAD Engineering, Fine Art & Software Architecture**
 
 <br/>
 
@@ -11,24 +10,56 @@
 [![Location](https://img.shields.io/badge/BASE-KHAMMAM%2C%20TELANGANA%20%5BIN%5D-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 [![Aura](https://img.shields.io/badge/AURA_INDEX-%2B994%2C210-38bdf8?style=for-the-badge&logo=target&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 
-<br/><br/>
+<br/>
 
-<!-- SACRED CREED SANCTUARY CARD -->
-<img src="./.github/assets/creed-card.svg" width="100%" alt="Operating Creed & Ethos // Main kismat wala nahi, mehnat wala hoon." />
+[![100+ WPM Dual Speed](https://img.shields.io/badge/TYPING%20VELOCITY-100%2B%20WPM%20DUAL%20SPEED-38bdf8?style=flat-square&logo=speedtest&logoColor=white)](https://github.com/shaik-junaid-ahmed)
+[![CAD Engineering](https://img.shields.io/badge/3D%20CAD-CATIA%20%26%20SOLIDWORKS-67e8f9?style=flat-square&logo=autodesk&logoColor=white)](https://github.com/shaik-junaid-ahmed)
+[![Fine Art](https://img.shields.io/badge/FINE%20ART-PENCIL%20GRAPHITE%20REALISM-cbd5e1?style=flat-square&logo=artstation&logoColor=white)](https://github.com/shaik-junaid-ahmed)
+[![Credentials](https://img.shields.io/badge/ACCREDITATIONS-15%20VERIFIED%20CERTS-10b981?style=flat-square&logo=credly&logoColor=white)](https://github.com/shaik-junaid-ahmed)
+
+<br/>
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  [ JA_ // POLYMATH OS v2.0 ]                              [ KHM // TELANGANA // ONLINE ]│
+│                                                                                        │
+│  "I don't study disciplines to collect titles. I conquer them to execute at scale."   │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <br/>
 
-## 🌌 01. THE POLYMATH MIND
+> [!IMPORTANT]
+> ### 👑 **THE SACRED OPERATING CREED**
+> <div align="center">
+>
+> # **"میں قسمت والا نہیں، محنت والا ہوں۔ تقدیر بناتا میں اپنی ہوں۔"**
+> ### *"Main kismat wala nahi, mehnat wala hoon. Taqdeer banata main apni hoon."*
+> #### *"I am not a product of luck, but of relentless hard work. I forge my own destiny."*
+>
+> </div>
+>
+> | LUCK FACTOR | EFFORT VECTOR | DESTINY |
+> | :---: | :---: | :---: |
+> | `0.0%` | `100% UNBROKEN` | `SELF-FORGED` |
 
-> *"I don't study disciplines to collect titles. I conquer them to execute at production grade."*
+<br/>
+
+## 🌌 01. THE POLYMATH MIND
 
 I operate without artificial boundaries between manual art, physical 3D modeling, and digital software systems.
 
-<div align="center">
-  <img src="./.github/assets/polymath-grid.svg" width="100%" alt="Polymath Spectrum Visual Matrix" />
-</div>
+| ⌨️ **100+ WPM VELOCITY** | 📐 **AUTOCAD BLUEPRINTS** | ⚙️ **CATIA & SOLIDWORKS** |
+| :--- | :--- | :--- |
+| `Monkeytype Dual-Verified` | `Architectural 2D & 3D` | `Parametric 3D Modeling` |
+| **Zero Latency Execution** | **Structural Floorplans** | **Mechanical Assemblies** |
+
+| ✏️ **PENCIL FINE ART** | 🧠 **AI PROMPT MASTERY** | 🛠️ **20+ SHIPPED UTILITIES** |
+| :--- | :--- | :--- |
+| `Manual Graphite Realism` | `Context Window Steering` | `Autonomous Rust & Python` |
+| **Proportional Portraiture** | **Multi-Modal Cognitive Logic** | **Standalone CLI & Web Apps** |
 
 <br/>
 
@@ -109,28 +140,25 @@ const ShaikJunaidAhmed = {
 
 <br/>
 
----
+> [!TIP]
+> ### ✨ **DAY ZERO ADVANTAGE // GROUND FLOOR PROTOCOL**
+> ### **"Reach out before I get famous."**
+> 
+> Right now, my inbox is direct and unbuffered. In a few years, when the relentless work pays off and the trajectory hits escape velocity, getting through will be almost impossible.
+> 
+> **Connect now — so when that breakthrough happens, you aren't just an acquaintance. You're someone who was here from Day Zero.**
+> 
+> `● DIRECT ACCESS: UNRESTRICTED` • `FUTURE REPUTATION PROTOCOL: ACTIVE`
 
-## ✨ 05. DAY ZERO ADVANTAGE // GROUND FLOOR PROTOCOL
+<br/>
 
 <div align="center">
-
-<!-- DAY ZERO "CONNECT BEFORE I GET FAMOUS" CARD -->
-<img src="./.github/assets/day-zero-card.svg" width="100%" alt="Reach out before I get famous" />
-
-<br/><br/>
 
 [![Direct Email](https://img.shields.io/badge/DIRECT_EMAIL-specialjunaid69%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:specialjunaid69@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%40shaik__junaid__ahmed__69-ec4899?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaik_junaid_ahmed_69)
 [![GitHub](https://img.shields.io/badge/GITHUB-shaik--junaid--ahmed-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shaik-junaid-ahmed)
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
+<br/><br/>
 
 ```
 RUNTIME: STABLE 60-120 FPS • KHAMMAM, TELANGANA, INDIA • INTERMEDIATE II (MPC)
