@@ -1,24 +1,29 @@
-<img width="1370" height="637" alt="hero-preview" src="https://github.com/user-attachments/assets/ca39b77a-158c-43ec-b76a-454b449a5cc9" />
+<!-- ── HEADER BANNER: ANIMATED CYBER WAVING HEADER ── -->
 <div align="center">
 
-# ⚡ SHAIK JUNAID AHMED
-### 🌐 THE TRUE POLYMATH // INTERMEDIATE II (MPC)
-**Bridging CAD Engineering, Fine Art & Software Architecture**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,10,20&height=220&section=header&text=SHAIK%20JUNAID%20AHMED&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=%E2%80%94%20THE%20TRUE%20POLYMATH%20//%20INTERMEDIATE%20II%20(MPC)%20%E2%80%94&descSize=16&descAlignY=58&descColor=38bdf8" width="100%" alt="Shaik Junaid Ahmed Header" />
 
-<br/>
+<!-- LIVE ANIMATED TYPEWRITER TERMINAL -->
+<a href="https://github.com/shaik-junaid-ahmed">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Bridging+CAD+Engineering%2C+Fine+Art+%26+Code;100%2B+WPM+Kinetic+Typing+Velocity;Parametric+3D+CAD+in+CATIA+%26+SolidWorks;Architectural+Blueprints+in+AutoCAD;Traditional+Hand-Drawn+Pencil+Realism;Main+kismat+wala+nahi%2C+mehnat+wala+hoon." alt="Typing SVG" />
+</a>
 
+<br/><br/>
+
+<!-- STATUS & TELEMETRY SHIELDS -->
 [![Status](https://img.shields.io/badge/STATUS-ONLINE%20%26%20EXECUTING-0284c7?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 [![Location](https://img.shields.io/badge/BASE-KHAMMAM%2C%20TELANGANA%20%5BIN%5D-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 [![Aura](https://img.shields.io/badge/AURA_INDEX-%2B994%2C210-38bdf8?style=for-the-badge&logo=target&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 
-<br/>
+<br/><br/>
 
+<!-- 4 HIGH-STATUS TELEMETRY CHIPS -->
 [![100+ WPM Dual Speed](https://img.shields.io/badge/TYPING%20VELOCITY-100%2B%20WPM%20DUAL%20SPEED-38bdf8?style=flat-square&logo=speedtest&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 [![CAD Engineering](https://img.shields.io/badge/3D%20CAD-CATIA%20%26%20SOLIDWORKS-67e8f9?style=flat-square&logo=autodesk&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 [![Fine Art](https://img.shields.io/badge/FINE%20ART-PENCIL%20GRAPHITE%20REALISM-cbd5e1?style=flat-square&logo=artstation&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 [![Credentials](https://img.shields.io/badge/ACCREDITATIONS-15%20VERIFIED%20CERTS-10b981?style=flat-square&logo=credly&logoColor=white)](https://github.com/shaik-junaid-ahmed)
 
-<br/>
+<br/><br/>
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
